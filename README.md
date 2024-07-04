@@ -1,1 +1,1 @@
-# -iPhone-Data-Analysis-using-Snowflake
+# iPhone-Data-Analysis-using-Snowflake
